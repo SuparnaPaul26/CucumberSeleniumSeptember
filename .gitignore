@@ -1,4 +1,4 @@
 target/
-.mvn/
+test-output/
+drivers/
 .DS_Store
-*.class
